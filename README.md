@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudhir Chandra Mahalik</h1>
 <h3 align="center">A passionate AI/ML developer from NIT ROURKELA</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsrudhir&label=Profile%20views&color=0e75b6&style=flat" alt="itsrudhir" /> </p>
